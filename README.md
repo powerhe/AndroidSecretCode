@@ -1,3 +1,4 @@
+![image](./image_for_readme/androidsecretcode.png)
 # AndroidSecretCode
 
 # What's the android secret code?
@@ -42,6 +43,7 @@ Intent intent = new Intent(context.getString(R.string.oem_key_code_action));
 intent.putExtra(context.getString(R.string.oem_code), input);
 context.sendBroadcast(intent)
 ```
+![image](./image_for_readme/source.png)
 
 ## Start the activity directly
 ```
