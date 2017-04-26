@@ -66,3 +66,10 @@ And whenever *#*#123456789#*#* is submitted, your receiver will be notified.
 	</intent-filter>
 </receiver>
 ```
+
+## Demo View
+![image](./Resources/demo1.png)
+![image](./Resources/demo2.png)
+![image](./Resources/demo3.png)
+
+## Vedio Demo show in (./Resources/demo.mp4)
