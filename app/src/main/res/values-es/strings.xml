@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="about_body"><![CDATA[
+        Secret Codes is an Open Source application that allows you to scan the secret codes available on your Android device through the dialer app. If you want more info about it, follow these links:<br><br>
+        <b>&bull;&nbsp;&nbsp;<a href="http://write.blog.csdn.net/postlist">CSDN Community</a></b> <i>Share your features requests, bugs, …</i><br>
+        <b>&bull;&nbsp;&nbsp;<a href="https://github.com/powerhe?tab=repositories">Github Pages</a></b> <i>Description of the project</i><br>
+        <b>&bull;&nbsp;&nbsp;<a href="https://github.com/powerhe/Android-SecretCodes">Github repository</a></b> <i>Source code of the project</i><br>
+        <b>&bull;&nbsp;&nbsp;<a href="https://github.com/powerhe">My personal website</a></b> <i>About me, and other projects</i>
+    ]]></string>
+
+    <string name="action_about">Acerca de</string>
+    <string name="action_close">Cerrar</string>
+
+    <string name="execute_code">Ejecutando el código *#*#%1$s#*#*</string>
+
+    <string name="action_start">Iniciar el proceso de busqueda</string>
+    <string name="action_online_database">Base de datos Online</string>
+
+    <string name="zero_secret_codes">No existen códigos secretos en su dispositivo…</string>
+    <string name="security_exception">Su dispositivo no es compatible…\nIntente ejecutar el código directamente en la aplicación del llamadas.</string>
+</resources>
